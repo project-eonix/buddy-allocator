@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-eonix_mm = { path = "../eonix_mm" }
+eonix_mm = { git = "https://github.com/project-eonix/eonix-mm.git" }
